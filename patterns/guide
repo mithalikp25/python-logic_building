@@ -1,0 +1,12 @@
+basically star patterns are used to strenghthen looping logics
+
+always check for the rows and columns
+
+either take i/j or r/c
+
+check the no.of stars and spaces in each row and columns
+
+based on the numbers formulate an equation to add inside looping conditions
+
+for squares we see name no.of stars and n is the condition
+for triangles r=c thus r=1,n+1 and c=r

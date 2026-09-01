@@ -7,3 +7,9 @@ for r in range(n):
         else:
             print(" ", end=" ")
     print()
+
+# *       * 
+#   *   *   
+#     *     
+#   *   *   
+# *       * 
